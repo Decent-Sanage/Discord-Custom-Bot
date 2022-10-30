@@ -61,7 +61,7 @@ Egglord also comes packed with a variety of features, such as:
 
 ## 📝 To-Do
 
-Egglord is pretty much at the end of development now, it will only be updated for the following things:
+PunPun is pretty much at the end of development now, it will only be updated for the following things:
   
   * Bug fixes
   * Code optimisation
