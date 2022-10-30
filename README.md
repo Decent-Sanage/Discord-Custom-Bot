@@ -24,7 +24,7 @@
 
 PunPun is an open source, fully customizable Discord bot that is constantly growing . A discord chat bot that also has automation feature such as inform you regarding different contests/Events from time to time and It also have the features to maintain an entire global server . You can invite it to your Discord server using [this]() link! Also, you can join the official [PunPun Support Server]() for all questions, suggestions, and assistance! It comes packaged with a variety of commands and a multitude of settings that can be tailored to your server's specific needs.
 
-If you liked this repository, feel free to leave a star ⭐ to help promote Egglord!
+If you liked this repository, feel free to leave a star ⭐ to help promote punpun!
 
 ## ❗ Features
 
@@ -45,7 +45,7 @@ If you liked this repository, feel free to leave a star ⭐ to help promote Eggl
 *   ❓  **Ticket**: `t-(close | create |setup )`!
 *   **Full list** of commands: [here]().
 
-Egglord also comes packed with a variety of features, such as:
+PunPun also comes packed with a variety of features, such as:
 
   * **Welcome messages** and **farewell messages**.
   * **Extensive Logging** for 37 events.
